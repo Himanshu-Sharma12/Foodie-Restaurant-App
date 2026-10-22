@@ -2,6 +2,8 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "author": "Himanshu Sharma <https://github.com/Himanshu-Sharma12>",
+  "homepage": "https://github.com/Himanshu-Sharma12/Unified-Mentor2",
   "dependencies": {
     "@emotion/react": "^11.8.2",
     "@emotion/styled": "^11.8.1",

@@ -29,15 +29,19 @@ const Footer = () => {
                 {t('nav:madeWith')} ❣️ {t('nav:by')}&nbsp;&nbsp;
                 <span style={{ color: "#DD7230" }}>
                     <a
-                        href="https://github.com/hetsuthar028"
+                        href="https://github.com/Himanshu-Sharma12"
+                        target="_blank"
+                        rel="noreferrer"
                         style={{ color: "inherit" }}
                     >
-                        Het Suthar
+                        Himanshu Sharma
                     </a>
                 </span>{" "}
                 <br />
                 <a
-                    href="https://github.com/hetsuthar028"
+                    href="https://github.com/Himanshu-Sharma12/Unified-Mentor2"
+                    target="_blank"
+                    rel="noreferrer"
                     style={{ color: "inherit" }}
                 >
                     <GitHubIcon sx={{ mt: 2 }} />
