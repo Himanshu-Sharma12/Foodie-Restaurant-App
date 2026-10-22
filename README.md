@@ -152,8 +152,8 @@ Make sure you have the following installed locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Himanshu-Sharma12/Unified-Mentor2.git
-cd Unified-Mentor2
+git clone https://github.com/Himanshu-Sharma12/Foodie-Restaurant-App.git
+cd Foodie-Restaurant-App
 ```
 
 ---
@@ -251,7 +251,7 @@ The app will launch at `http://localhost:3000`.
 ## 📁 Repository Structure
 
 ```
-Unified-Mentor2/
+Foodie-Restaurant-App/
 ├── client/                     # Frontend React Application
 │   ├── public/                 # HTML shell, fonts, favicon
 │   ├── src/
@@ -281,7 +281,7 @@ Unified-Mentor2/
 
 **Himanshu Sharma**  
 - **GitHub**: [@Himanshu-Sharma12](https://github.com/Himanshu-Sharma12)  
-- **Repository**: [Unified-Mentor2](https://github.com/Himanshu-Sharma12/Unified-Mentor2)
+- **Repository**: [Foodie-Restaurant-App](https://github.com/Himanshu-Sharma12/Foodie-Restaurant-App)
 
 ---
 

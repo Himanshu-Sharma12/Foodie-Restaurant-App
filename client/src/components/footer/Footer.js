@@ -39,7 +39,7 @@ const Footer = () => {
                 </span>{" "}
                 <br />
                 <a
-                    href="https://github.com/Himanshu-Sharma12/Unified-Mentor2"
+                    href="https://github.com/Himanshu-Sharma12/Foodie-Restaurant-App"
                     target="_blank"
                     rel="noreferrer"
                     style={{ color: "inherit" }}
